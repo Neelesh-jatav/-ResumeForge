@@ -12,6 +12,7 @@ A modern, intuitive resume builder application that helps you create, customize,
 - **Form Validation** - Built-in validation for all inputs
 - **Modern UI Components** - Professional UI built with shadcn/ui
 - **Dark Mode Ready** - Tailwind CSS supports light and dark themes
+- **AI SOP Generator (Coming Soon)** - Generate a Statement of Purpose (SOP) for internship or placement applications using your resume and project details.
 
 ## 🚀 Quick Start
 
@@ -221,6 +222,7 @@ This project is open source and available under the MIT License.
 - Social media profile integration
 - Resume version history
 - Collaboration features
+- AI-powered SOP (Statement of Purpose) generation from resume/project data for internships and placements (coming soon)
 
 ## 📞 Support
 
